@@ -45,5 +45,5 @@ Models are evaluated on a held-out 20% test set (89 patients) using MAE, MSE, RM
 
 ## Files
 
-- `Lab4.ipynb` – full analysis with code, outputs and written observations
+- `Lab4(1).ipynb` – full analysis with code, outputs and written observations
 - `README.md` – this file
