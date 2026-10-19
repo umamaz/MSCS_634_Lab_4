@@ -5,7 +5,7 @@
 
 ## Purpose
 
-This lab compares several regression techniques for predicting disease progression one year after baseline, using the Diabetes dataset from `sklearn.datasets` (442 patients, 10 standardized health measurements). The notebook (`Lab4.ipynb`) builds and evaluates:
+This lab compares several regression techniques for predicting disease progression one year after baseline, using the Diabetes dataset from `sklearn.datasets` (442 patients, 10 standardized health measurements). The notebook (`Lab4(1).ipynb`) builds and evaluates:
 
 1. Simple linear regression (BMI only)
 2. Multiple regression (all 10 features)
